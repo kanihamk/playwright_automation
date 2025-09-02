@@ -1,5 +1,5 @@
 # playwright_automation
-his script is like a little robot for your web browser. It's designed to:
+This script is like a little robot for your web browser. It's designed to:
 
 Log in for you: It remembers your login so you don't have to type it in every time.
 
