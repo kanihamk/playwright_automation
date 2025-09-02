@@ -16,11 +16,11 @@ Open your command line or terminal.
 
 Type the following command and hit Enter:
 
-pip install playwright
+py -m pip install playwright
 
 Next, you need to download the browser tools. Type this and hit Enter:
 
-playwright install
+py -m playwright install
 
 Important things to change in the script
 Before you run the script, you have to tell it about the website you're using.
@@ -44,7 +44,7 @@ You might need to change the names of the buttons it clicks to find the product 
 How to run the script
 Once you've made those changes, it's easy! Just go back to your terminal and run this command:
 
-python product_scraper.py
+python playwright_scraper.py
 
 After it's done, you'll see a new file called products.json that has all the product data inside.
 
